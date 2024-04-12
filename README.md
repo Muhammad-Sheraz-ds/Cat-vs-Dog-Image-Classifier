@@ -1,5 +1,3 @@
-# Cats_vs_Dogs_Classifier_Using_CNN
-
 # Cat vs Dog Image Classifier
 
 This project implements a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model is trained on a dataset of labeled images and can accurately distinguish between cats and dogs.
