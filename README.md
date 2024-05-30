@@ -29,7 +29,7 @@ The dataset used for training and evaluation contains thousands of images of cat
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/cat_vs_dog_classifier.git
+    git clone https://github.com/Muhammad-Sheraz-ds/cat_vs_dog_classifier.git
     ```
 
 2. Install the required dependencies:
